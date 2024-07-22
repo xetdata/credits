@@ -105,7 +105,7 @@ shellexpand,1.1.1,Multi-license: Apache-2.0 OR MIT; Apache-2.0; MIT
 slog,2.7.0,Apache-2.0; MPL-2.0; MIT
 slog-async,2.8.0,MPL-2.0; MIT; Apache-2.0
 slog-json,2.6.1,MPL-2.0; MIT; Apache-2.0
-snailquote,0.3.1,GPL-3.0-only
+shellish_parse,2.2,MIT
 sorted-vec,0.8.3,Apache-2.0
 structopt,0.3.26,MIT; Apache-2.0
 syn,2.0.71,MIT; Apache-2.0
